@@ -1,4 +1,5 @@
 Name: Đình Thông
 Hobby: Football, walking, swimming
 University: BK, HCMC #new line
+Year: 3rd
 
